@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Logo.jpg" width="278px">
+<img src="Logotipo.jpg" width="278px">
 </p>
 
 Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara acerca de herramientas de explotación de vulnerabilidades, técnicas de seguridad y antiforense, criptografía, programación para a hacking, auditoría de redes, hacking web, sistemas operativos e ingeniería social entre otras cosas más.
