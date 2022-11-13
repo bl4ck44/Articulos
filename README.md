@@ -1,8 +1,8 @@
-# Artículos
+<p align="center">
+<img src="Logo.jpg" width="278px">
+ </p>
 
-![Informatica](logo.jpg)
-
-Aquí encontraras todo acerca de Hacking y Ciberseguridad, artículos de cómo usar varias herramientas de Kali Linux entre otras cosas más. 
+Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara acerca de herramientas de explotación de vulnerabilidades, técnicas de seguridad y antiforense, criptografía, programación para a hacking, auditoría de redes, hacking web, sistemas operativos e ingeniería social entre otras cosas más.
 
 ### 💻**Hacking**💻
 
