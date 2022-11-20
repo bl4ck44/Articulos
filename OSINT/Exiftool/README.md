@@ -1,7 +1,7 @@
 # Análisis de metadatos con Exiftool
 
 <p align="center">
-<img src="../Exiftool/Logo.jpg">
+<img src="./Img/Logo.jpg">
 </p>
 
 Por si no lo tienes muy claro, los metadatos o datos EXIF (Exchangeable Image File) son datos que nos dan información muy detallada sobre fotografías, vídeos y audios digitales.
