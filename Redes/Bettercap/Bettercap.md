@@ -1,6 +1,8 @@
 # Análisis con Bettercap
 
-![Informatica](Img/logo.jpg)
+<p align="center">
+<img src="./Img/logo.jpg">
+</p>
 
 Bettercap es una herramienta potente, flexible y portátil creada para realizar varios tipos de ataques MITM contra una red, manipular HTTP, HTTPS y tráfico TCP en tiempo real, buscar credenciales y mucho más.
 
