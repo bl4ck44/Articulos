@@ -1,10 +1,15 @@
 # Análisis con Bettercap
+<br>
 
 <p align="center">
 <img src="./Img/logo.jpg">
 </p>
 
+<br>
+
 Bettercap es una herramienta potente, flexible y portátil creada para realizar varios tipos de ataques MITM contra una red, manipular HTTP, HTTPS y tráfico TCP en tiempo real, buscar credenciales y mucho más.
+
+<br>
 
 ## Instalación
 
@@ -15,6 +20,8 @@ apt-get update
 
 apt-get install bettercap
 ```
+
+<br>
 
 ## USO
 
@@ -30,7 +37,11 @@ ticker on
 
 Como podmeos observar son las IP de nuestra red local.
 
+<br>
+
 ![Informatica](Img/IP.jpg)
+
+<br>
 
 En la misma terminal ejecutaremos de nuevo bettercap, seleccionamos la IP que vamos analizár.
 
@@ -45,6 +56,8 @@ net.sniff on
 ```
 
 Y nos mostrara todo el tráfico de la IP víctima.
+
+<br>
 
 ![Informatica](Img/trafico.png)
 
