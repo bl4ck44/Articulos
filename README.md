@@ -12,6 +12,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Msfvenom fuera de LAN](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Msfvenom/Msfvenom.md)
 
+> * [Cracking Windows 10]()
+
 **Redes:**
 
 > * [Cracking con Aircrack-ng](https://github.com/bl4ck44/Articulos/blob/master/Redes/Aircrack-ng/Aircrack-ng.md)

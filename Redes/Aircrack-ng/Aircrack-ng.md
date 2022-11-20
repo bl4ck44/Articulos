@@ -1,6 +1,8 @@
 # Guía de uso Aircrack-ng
 
-![Informatica](Img/logo.jpg)
+<p align="center">
+<img src="./Img/logo.jpg">
+</p>
 
 Aircrack-ng es una suite de programas que nos permitirán realizar auditorías inalámbricas Wifi a routers y puntos de acceso Wifi. 
 
