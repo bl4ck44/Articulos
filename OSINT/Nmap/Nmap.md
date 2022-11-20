@@ -158,3 +158,5 @@ Los modos 1 y 2 se utilizan para evadir IDS
   * -oX guardar en formato XML
   * -oG guardar en formato para posteriormente usar Grep
   * -oA guardar en todos los formatos anteriores
+
+Nmap es una herramienta útil, que nos puede dar muchas facilidades a la hora de escanear redes.
