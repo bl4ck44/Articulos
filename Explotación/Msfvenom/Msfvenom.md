@@ -2,6 +2,8 @@
 
 ![Informatica](Img/logo.jpg)
 
+<br>
+
 Muchos deebn saber como controlar un dispositivo con Msfvenom dentro de red pero algunos no saben
 como controlar un dispositivo fuera de nuestra red local. Aqui te enseñaremos como controlar un dispositivo
 con Msfvenom fuera de nuestra red local.
@@ -19,7 +21,11 @@ Luego iremos a nuestro navegador y escribiremos la direccion de nuestro router, 
 
 Luego buscaremos donde diga reenvio de puetos:
 
+<br>
+
 ![Informatica](Img/puertos.jpg)
+
+<br>
 
 abriremos el puerto 4444 y pondremos la IP de nuestro Kali Linux.
 
@@ -34,14 +40,22 @@ set LPORT 4444
 exploit
 ```
 
+<br>
+
 ![Informatica](Img/exploit.jpg)
+
+<br>
 
 Luego instalaremos la aplicacion maliciosa que creamos en nuestro celular víctima y la abriremos. Ahora
 iremos a nuestro Kali Linux y veremos que tenermos una seción de meterpreter, ya estamos dentro de
 nuestro celular víctima. Para ayudarnos ingresaremos help y podemos ver una serie de informacion de lo que
 podemos hacer dentro de nuestro celular víctima.
 
+<br>
+
 ![Informatica](Img/help.jpg)
+
+<br>
 
 **NOTA:** Pueden subir la aplicacion maliciosa a un servidor web como apache2, y hacer que la victima
 descargue la aplicacion desde el servidor web.
