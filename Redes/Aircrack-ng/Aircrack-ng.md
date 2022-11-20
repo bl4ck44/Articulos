@@ -52,6 +52,7 @@ aireplay-ng -0 50 -a 06:A1:51:9A:2F:2F -c 2E:C7:CB:0E:98:C4 wlan0
 ```
 
 ![Informatica](Img/desconectar.jpg)
+
 Ahora la fase final será usar nuestro archivo de captura y nuestra lista de contraseñas para poder saber la
 contraseña de la red. Ingresamos primero la ubicación de la lista de contraseñas luego el BSSID del al red y
 por último el archivo de captura.
