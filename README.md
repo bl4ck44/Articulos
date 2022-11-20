@@ -26,6 +26,9 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Análisis de metadatos con Exiftool](https://github.com/bl4ck44/Articulos/blob/master/OSINT/Exiftool/README.md)
 
+> * [Escaneo de puertos con Nmap]()
+
+
 </br>
 
 ### 💻👾**Análisis de Malware**👾💻
