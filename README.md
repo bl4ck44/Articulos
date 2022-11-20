@@ -24,7 +24,7 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 **OSINT:**
 
-> * [Análisis de metadatos con Exiftool]()
+> * [Análisis de metadatos con Exiftool](https://github.com/bl4ck44/Articulos/blob/master/OSINT/Exiftool/README.md)
 
 </br>
 
