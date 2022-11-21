@@ -19,7 +19,7 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Msfvenom fuera de LAN](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Msfvenom/Msfvenom.md)
 
-> * [Cracking Windows 10](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Cracking%20Windows%2010/Cracking.md)
+> * [Cracking Windows 10](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Cracking-Windows-10/Cracking.md)
 
 > * [Cracking con John the Ripper](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/John%20the%20Ripper/John%20the%20Ripper.md)
 
