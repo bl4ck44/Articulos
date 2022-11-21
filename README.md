@@ -21,6 +21,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Cracking Windows 10](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Cracking%20Windows%2010/Cracking.md)
 
+> * [Cracking Contraseñas con John the Ripper]()
+
 <br>
 
 **Redes:**
