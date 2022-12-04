@@ -41,7 +41,9 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Escaneo de puertos con Nmap](https://github.com/bl4ck44/Articulos/blob/master/OSINT/Nmap/Nmap.md)
 
-> * [Escanero de directorios web con dirsearch](https://github.com/bl4ck44/Articulos/blob/master/OSINT/dirsearch/dirsearch.md)
+> * [Escaneo de directorios web con dirsearch](https://github.com/bl4ck44/Articulos/blob/master/OSINT/dirsearch/dirsearch.md)
+
+> * [Escaneo de firewall web con Wafw00f]() 
 
 
 </br>
