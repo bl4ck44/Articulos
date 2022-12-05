@@ -37,7 +37,7 @@ python3 phantom-evasion.py
 </p>
 
 <br>
-Seleccionaremos la opción 1, ahora el tipo de modulo opción 2, luego pulsaremos ENTER y en LHOST pondremos nuestra IP y LPORT el puerto 44444 y si nos pregunta yes o no ingresaremos todo yes.
+Seleccionaremos la opción 1, ahora el tipo de modulo opción 2, luego pulsaremos ENTER y en LHOST pondremos nuestra IP y LPORT el puerto 4444 y si nos pregunta yes o no ingresaremos todo yes.
 
 Luego de esto tendremos nuestro backdoor generado ahora lo usaremos en la PC victima.
 
