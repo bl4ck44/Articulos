@@ -47,7 +47,9 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 **Pentesting:**
 
-> * [Escaneo de firewall web con Wafw00f](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wafw00f/Wafw00f.md) 
+> * [Escaneo de firewall web con Wafw00f](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wafw00f/Wafw00f.md)
+
+> * [Escaneo con Whatweb]() 
 
 </br>
 
