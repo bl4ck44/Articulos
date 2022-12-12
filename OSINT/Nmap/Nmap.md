@@ -122,7 +122,8 @@ Esta herrmienta es realmente completa, hasta el momento hemos utilizado los coma
   * -sV Información de las versiones 
   * -A Activa la detección de sistema operativo, de versiones y traceroute 
   * -Pn No ping 
-  * -p port number 
+  * -p- escaneo de todos los puertos
+  * -p número de puerto
   
 <br>
 
