@@ -46,7 +46,7 @@ Como podmeos observar son las IP de nuestra red local.
 En la misma terminal ejecutaremos de nuevo bettercap, seleccionamos la IP que vamos analizár.
 
 ```
-set arp.spoof targets 192.168.1.23
+set arp.spoof targets 192.168.1.1
 
 arp.spoof on
 
@@ -55,9 +55,12 @@ set net.sniff.verbose false
 net.sniff on
 ```
 
-Y nos mostrara todo el tráfico de la IP víctima.
+Y nos mostrara todo el tráfico de la IP seleccionada.
 
 <br>
 
 ![Informatica](Img/trafico.png)
+
+<br>
+
 
