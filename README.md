@@ -59,7 +59,7 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 **Criptografía**
 
-> * [Como esconder datos en una imagen]()
+> * [Como esconder datos en una imagen](https://github.com/bl4ck44/Articulos/blob/master/Criptograf%C3%ADa/steghide/README.md)
 
 ### 💻👾**Análisis de Malware**👾💻
 
