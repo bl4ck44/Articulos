@@ -57,6 +57,10 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 </br>
 
+**Criptografía**
+
+> * [Como esconder datos en una imagen]()
+
 ### 💻👾**Análisis de Malware**👾💻
 
 <br>
