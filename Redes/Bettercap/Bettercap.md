@@ -16,6 +16,7 @@ Bettercap es una herramienta potente, flexible y portátil creada para realizar 
 
 sudo apt-get install build-essential ruby-dev libpcap-dev
 
+```
 apt-get update
 
 apt-get install bettercap
