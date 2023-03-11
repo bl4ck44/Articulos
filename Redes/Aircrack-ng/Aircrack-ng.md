@@ -59,7 +59,7 @@ Ahora seleccionamos el canal de la red, luego agregamos un nombre para guardar e
 airodump-ng -c 6 -w auditoria-wifi --bssid 06:A1:51:9A:2F:2F wlan0
 ```
 
-Como podemos observar solo 1 dispositivo está conectado a la red este dispositivo será la clave para poder
+Como podemos observar solo 1 dispositivo está conectado y el unico que tiene el EAPOL entonces seleccionaremos este dispositivo que será la clave para poder
 entrar a la red, lo primero que haremos será desconectar el dispositivo de la red. Primero seleccionamos el
 número de veces que va a desautenticar el dispositivo luego seleccionamos el BSSID de la red y por último el
 BSSID del dispositivo.
