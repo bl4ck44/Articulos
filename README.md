@@ -25,6 +25,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Cracking con John the Ripper](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/John-the-Ripper/John-the-Ripper.md)
 
+> * [Crear Fake AP (Punto de Acceso Falso)](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/John-the-Ripper/John-the-Ripper.md)
+
 <br>
 
 **Redes:**
