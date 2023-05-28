@@ -62,6 +62,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Escaneo de vulnerabilidades con Skipfish](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Skipfish/Skipfish.md)
 
+> * [Verificar el servicio en cualquier puerto para admitir cifrados TLS/SSL](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/testssl.sh/testssl.sh.md)
+
 </br>
 
 **Criptografía**
