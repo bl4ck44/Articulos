@@ -49,6 +49,7 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Escaneo de directorios web con dirsearch](https://github.com/bl4ck44/Articulos/blob/master/OSINT/dirsearch/dirsearch.md)
 
+
 <br>
 
 **Pentesting:**
@@ -58,6 +59,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 > * [Escaneo con Whatweb](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Whatweb/Whatweb.md)
 
 > * [Escaneo de vulnerabilidades con Wapiti](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wapiti/Wapiti.md)
+
+> * [Escaneo de vulnerabilidades con Skipfish](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wapiti/Wapiti.md)
 
 </br>
 
