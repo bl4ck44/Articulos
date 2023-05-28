@@ -39,6 +39,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Crear Fake AP (Punto de Acceso Falso)](https://github.com/bl4ck44/Articulos/blob/master/Redes/Fake-AP/fakeAP.md)
 
+> * [Poner en modo monitor adaptador tp-link tl wn722n]()
+
 <br>
 
 **OSINT:**
