@@ -64,7 +64,7 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Verificar el servicio en cualquier puerto para admitir cifrados TLS/SSL](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/testssl.sh/testssl.sh.md)
 
-> * [Escanear vulnerabilidades con Nikto]()
+> * [Escanear vulnerabilidades con Nikto](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Nikto/Nikto.md)
 
 </br>
 
