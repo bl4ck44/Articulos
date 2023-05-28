@@ -60,7 +60,7 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Escaneo de vulnerabilidades con Wapiti](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wapiti/Wapiti.md)
 
-> * [Escaneo de vulnerabilidades con Skipfish](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wapiti/Wapiti.md)
+> * [Escaneo de vulnerabilidades con Skipfish](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Skipfish/Skipfish.md)
 
 </br>
 
