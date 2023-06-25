@@ -75,9 +75,14 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 </br>
 
-**Criptografía**
+**Criptografía y Esteganografía**
 
-> * [Como esconder datos en una imagen](https://github.com/bl4ck44/Articulos/blob/master/Criptograf%C3%ADa/steghide/README.md)
+> * [Como esconder datos en una imagen con steghide](https://github.com/bl4ck44/Articulos/blob/master/Criptograf%C3%ADa/steghide/README.md)
+
+> * [Como esconder datos en una imagen con free file camouflage](https://github.com/bl4ck44/Articulos/blob/master/Criptograf%C3%ADa/steghide/README.md)
+
+
+> * [Como esconder datos en un archivo MP3]()
 
 <br>
 
