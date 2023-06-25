@@ -25,6 +25,9 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Cracking con John the Ripper](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/John-the-Ripper/John-the-Ripper.md)
 
+> * [Inyección con sqlmap en DVWA](https://github.com/bl4ck44/Articulos/blob/master/Explotaci%C3%B3n/Cracking-Windows-10/Cracking.md)
+
+
 <br>
 
 **Redes:**
@@ -56,6 +59,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 **Pentesting:**
 
+> * [Instalación de DVWA (Damn Vulnerable Web App)]()
+
 > * [Escaneo de firewall web con Wafw00f](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Wafw00f/Wafw00f.md)
 
 > * [Escaneo con Whatweb](https://github.com/bl4ck44/Articulos/blob/master/Pentesting/Whatweb/Whatweb.md)
@@ -73,6 +78,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 **Criptografía**
 
 > * [Como esconder datos en una imagen](https://github.com/bl4ck44/Articulos/blob/master/Criptograf%C3%ADa/steghide/README.md)
+
+<br>
 
 ### 💻👾**Análisis de Malware**👾💻
 
