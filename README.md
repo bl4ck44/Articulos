@@ -55,6 +55,8 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 > * [Escaneo de directorios web con dirsearch](https://github.com/bl4ck44/Articulos/blob/master/OSINT/dirsearch/dirsearch.md)
 
 
+> * [System OS]()
+
 <br>
 
 **Pentesting:**
