@@ -89,4 +89,4 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 
 > * [Creación de Laboratorio Sandboxed](https://github.com/bl4ck44/Articulos/blob/master/An%C3%A1lisis-de-Malware/Sandboxed/Sandboxed.md)
 
-> * [Herramientas para análisis de malware]()
+> * [Herramientas para análisis de malware](https://github.com/bl4ck44/Articulos/blob/master/An%C3%A1lisis-de-Malware/Herramientas/Herramientas.md)
