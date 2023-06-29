@@ -55,7 +55,7 @@ Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara a
 > * [Escaneo de directorios web con dirsearch](https://github.com/bl4ck44/Articulos/blob/master/OSINT/dirsearch/dirsearch.md)
 
 
-> * [System OS]()
+> * [Como identificar un sistema operativo mediante TTL](https://github.com/bl4ck44/Articulos/blob/master/OSINT/System%20OS/systemOS.md)
 
 <br>
 
