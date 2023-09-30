@@ -9,7 +9,7 @@
 
 [![Github](https://img.shields.io/badge/Github-bl4ck44-yellow?style=for-the-badge&logo=github)](https://github.com/bl4ck44)
 
-Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara acerca de herramientas de explotación de vulnerabilidades, técnicas de seguridad y antiforense, criptografía, programación para a hacking, auditoría de redes, hacking web, sistemas operativos e ingeniería social entre otras cosas más
+Bienvenidos aquí encontraran todo acerca de Hacking y Ciberseguridad, tratara acerca de herramientas de explotación de vulnerabilidades, técnicas de seguridad y antiforense, criptografía, programación para a hacking, auditoría de redes, hacking web, sistemas operativos e ingeniería social entre otras cosas más.
 
 ### 💻👩🏻‍💻**Hacking**👩🏻‍💻💻
 
