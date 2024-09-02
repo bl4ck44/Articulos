@@ -47,7 +47,7 @@ Como podmeos observar son las IP de nuestra red local.
 En la misma terminal ejecutaremos de nuevo bettercap, seleccionamos la IP que vamos analizár en este caso vamos a nalizar todas las IP para esto seleccionamos la IP del router.
 
 ```
-set arp.spoof targets 192.168.1.1
+set arp.spoof.targets 192.168.1.1
 
 arp.spoof on
 
